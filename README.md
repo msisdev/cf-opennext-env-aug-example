@@ -1,6 +1,6 @@
 # cf-opennext-env-aug-example
 
->  At `2024.01.02`  
+>  At `2025.01.02`  
 >  Using `"@opennextjs/cloudflare": "^0.3.3"`
 
 ## Description
